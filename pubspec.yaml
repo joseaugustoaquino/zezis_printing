@@ -2,7 +2,7 @@ name: zezis_printing
 description: Plugin that allows Flutter apps to generate and print documents
 
 version: 0.0.1
-repository: https://github.com/joseaugustoaquino/zezis_widget
+repository: https://github.com/joseaugustoaquino/zezis_printing
 homepage: https://github.com/joseaugustoaquino
 
 environment:
